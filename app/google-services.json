@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949863238367",
+    "firebase_url": "https://vanastudio-v3-default-rtdb.firebaseio.com",
+    "project_id": "vanastudio-v3",
+    "storage_bucket": "vanastudio-v3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949863238367:android:fcb9c4ffaa3b2e5f2a376a",
+        "android_client_info": {
+          "package_name": "com.cuongphan.vanastudio_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949863238367-18cr9pgftjpqpmufk7qgi6ebt3tom2vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuongphan.vanastudio_v2",
+            "certificate_hash": "d06a7395c880950b83b93aeee5a67ac85a03f2f9"
+          }
+        },
+        {
+          "client_id": "949863238367-f19gnkp1mvvgkfcfn03rpjl3h65ffimg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWIgl-VgvOVCBu5Hj6h5DIW8ve8REtS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949863238367-f19gnkp1mvvgkfcfn03rpjl3h65ffimg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
